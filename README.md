@@ -1,4 +1,4 @@
-##A considerar en el juego:
+## A considerar en el juego:
 Inicialmente, utiliza las flechas para apuntar y el espacio para lanzar la pelota.
 
 Una vez que la pelota está en movimiento, utilzar las flechas para mover la pala. Si mantienes las flechas, la paleta se moverá a mayor velocidad.
